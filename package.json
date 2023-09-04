@@ -18,6 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/kasunvimarshana/wkt.git"
   },
+  "keywords": [
+    "WKT",
+    "GeoJSON"
+  ],
   "author": "kasunvimarshana",
   "license": "MIT",
   "bugs": {
